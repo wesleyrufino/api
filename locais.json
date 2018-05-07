@@ -1,0 +1,12 @@
+{ "locais" :
+
+	[
+		  {"id" : 1, "nome" : "Barra do Ceará", "telefone": "xxxx-xxxx", "email" : "xxx", "endereco": "Rua Graça Aranha com Rua Wilcar Bastos Cavalcante", "cidade" : "Fortaleza"},
+		  {"id" : 2, "nome" : "Vila Velha",  "telefone": "xxxx-xxxx", "email" : "xxx", "endereco": "Rua Jasmim, S/N", "cidade" : "Fortaleza"},
+		  {"id" : 3, "nome" : "São João do Tauape", "telefone": "xxxx-xxxx", "email" : "xxx", "endereco": "Avenida Visconde do Rio Branco, S/N – anexo ao Parque Rio Branco", "cidade" : "Fortaleza"},
+		  {"id" : 4, "nome" : "Varjota", "telefone": "xxxx-xxxx", "email" : "xxx", "endereco": "Avenida Antônio Justa com Rua Meruoca", "cidade" : "Fortaleza"},
+		  {"id" : 5, "nome" : "Cidade 2000", "telefone": "xxxx-xxxx", "email" : "xxx", "endereco": " Rua Giselda Cysne com Rua Sólon Carvalho", "cidade" : "Fortaleza"},
+		  {"id" : 6, "nome" : "Praia do Futuro", "telefone": "xxxx-xxxx", "email" : "xxx", "endereco": "Rua José Aureliano Câmara com Avenida Dioguinho", "cidade" : "Fortaleza"},
+		  {"id" : 7, "nome" : "Vicente Pinzon", "telefone": "xxxx-xxxx", "email" : "xxx", "endereco": "Rua Veneza, esquina com Rua Josias Paula de Souza (próximo ao posto de saúde Vicente Pinzon)", "cidade" : "Fortaleza"}
+	]
+}
